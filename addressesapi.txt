@@ -1,5 +1,5 @@
 35.201.203.106#TW
-time.cloudflare.com#优选
+time.cloudflare.com:443#优选
 shopify.com#优选
 time.is#优选
 icook.hk#优选
